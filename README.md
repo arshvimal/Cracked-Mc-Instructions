@@ -1,4 +1,4 @@
-# How to install cracked Minecraft with forge
+# How to install cracked Minecraft with fabric
 1. Download TL Legacy(https://tlaun.ch/)
 2. Download the mods from this repository(If you want the mods.)
 
